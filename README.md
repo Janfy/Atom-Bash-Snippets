@@ -1,2 +1,2 @@
-# https-github.com-Janfy-Atom-Bash-Snippets
+# Atom Bash Snippets
 Bash snippets for Atom
