@@ -1,24 +1,24 @@
 {
-    "name": "Atom-Bash-Snippets",
-    "version": "0.0.0",
-    "description": "Bash snippets collections",
-    "keywords": [
-        "bash",
-        "shell",
-        "script",
-        "snippet"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Janfy/Atom-Bash-Snippets.git"
-    },
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {},
-    "bugs": {
-        "url": "https://github.com/Janfy/Atom-Bash-Snippets.git/issues"
-    },
-    "homepage": "https://github.com/Janfy/Atom-Bash-Snippets.git#readme"
+  "name": "Atom-Bash-Snippets",
+  "version": "0.0.1",
+  "description": "Bash snippets collections",
+  "keywords": [
+    "bash",
+    "shell",
+    "script",
+    "snippet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janfy/Atom-Bash-Snippets.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/Janfy/Atom-Bash-Snippets.git/issues"
+  },
+  "homepage": "https://github.com/Janfy/Atom-Bash-Snippets.git#readme"
 }
