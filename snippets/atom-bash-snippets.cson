@@ -143,4 +143,4 @@
 
   'short if..then..else':
     'prefix': 'ite'
-    'body': '[[ ${1:condition} ]] && ${2:echo "true"} || ${3:echo "false"} >&2'
+    'body': '[[ ${1:condition} ]] && ${2:echo "true"} || ${3:echo "false" >&2}'
